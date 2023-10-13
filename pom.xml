@@ -36,8 +36,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-        <project.build.targetJdk>17</project.build.targetJdk>
-        <air.java.version>17</air.java.version>
+        <project.build.targetJdk>11</project.build.targetJdk>
+        <air.java.version>11</air.java.version>
         <air.check.skip-checkstyle>true</air.check.skip-checkstyle>
         <air.check.skip-enforcer>true</air.check.skip-enforcer>
         <air.check.skip-license>true</air.check.skip-license>
